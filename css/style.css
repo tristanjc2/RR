@@ -303,18 +303,6 @@ section {
     cursor: pointer;
 }
 
-#herelink {
-    border:1px solid red;
-}
-
-#herelink:hover {
-    border:1px solid yellow;
-}
-
-#herelink:visited {
-    color:green;
-}
-
 .home{
     /* background:url(../background.jpg) no-repeat;  */
     background-size:cover; 
