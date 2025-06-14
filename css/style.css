@@ -398,9 +398,9 @@ section {
     background: linear-gradient(15deg, #eee 30%, #fff 30.1%);
 }
 
-.featured .featured-slider .box:hover .image{
+/* .featured .featured-slider .box:hover .image{
     transform: translateY(6rem);
-}
+} */
 
 .featured .featured-slider .box .image img {
     height:25rem;
@@ -417,9 +417,9 @@ section {
     transform: translateY(-105%);
 }
 
-.featured .featured-slider .box:hover .icons{
+/* .featured .featured-slider .box:hover .icons{
     transform: translateY(0%);
-}
+} */
 
 .featured .featured-slider .box .icons a{
     color:var(--black);
